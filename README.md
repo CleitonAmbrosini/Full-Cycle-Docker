@@ -55,7 +55,7 @@ O arquivo docker-compose.yml define três serviços:
 
 - db: O serviço MySQL é um banco de dados que vai armazenar os nomes. Ele usa a imagem MySQL oficial.
 
-##  Author
+##  Autor
 
 ### Cleiton A. Ambrosini
 ##### _Software Developer_
