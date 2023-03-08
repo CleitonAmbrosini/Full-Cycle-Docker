@@ -37,7 +37,7 @@ Clone o repositorio
 git clone https://github.com/CleitonAmbrosini/Full-Cycle-Docker.git
 ```
 
- Entre na pasta do projeto e execute o seguinte comando:
+ Entre na pasta "Desafio 2" e execute o seguinte comando:
  ```sh
 docker-compose up -d
 ```
